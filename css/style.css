@@ -51,7 +51,7 @@ h1::before{
 }
     /* header left start */
 .header-left{
-    background-color: #015761;
+    background-color: #497394;
     height: 600px;
     width: 100%;
     border-radius: 0 0 5px 0;
@@ -253,7 +253,7 @@ h1::before{
 
 /* contact right section start */
 .contact-right{
-    background-color: #015761;
+    background-color: #497394;
     height: 700px;
     color: #fff;
 }
